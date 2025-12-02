@@ -1,2 +1,4 @@
 .vscode/
 origin_eliza/
+*.exe
+*.o
